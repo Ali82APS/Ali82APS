@@ -1,9 +1,14 @@
- # 👋 Hi, I’m AliAmirpoorsaeed
+ # 👋 Hi, I’m **AliAmirpoorsaeed**
 
- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/ali-amirpoorsaeed-9499322a2/))
+ > I'm `Web Developer`
+>> currently `Front-End`
+___
+
 
   ### My socials:
 - 📫 a.82aps@gmail.com
+-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/ali-amirpoorsaeed-9499322a2/))
+
 
 <!---
 Ali82APS/Ali82APS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
