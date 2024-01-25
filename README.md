@@ -1,7 +1,8 @@
-- 👋 Hi, I’m AliAmirpoorsaied
-- 👀 I’m interested in coding and design.
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Html,css project.
+ # 👋 Hi, I’m AliAmirpoorsaeed
+
+ [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/ali-amirpoorsaeed-9499322a2/))
+
+  ### My socials:
 - 📫 a.82aps@gmail.com
 
 <!---
