@@ -2,8 +2,8 @@
 
  ![fun](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
- > I'm `Web Developer`
->> currently `Front-End`
+ > I'm `Web Developer🧑🏻‍💻`
+>> currently `Front-End` `Junior Developer`
 ___
 >✉️
 > `a.82aps@gmail.com`
