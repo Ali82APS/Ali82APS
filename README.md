@@ -3,7 +3,9 @@
  ![fun](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
  > I'm `Web Developer🧑🏻‍💻`
 >> currently `Front-End` `Junior Developer`
-___
+
+<br>
+
 >✉️
 > `a.82aps@gmail.com`
 ___
@@ -26,11 +28,11 @@ ___
 ![](https://github-profile-trophy.vercel.app/?username=Ali82APS&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ali82APS&icon=0&color=12)](https://visitcount.itsvg.in)
+>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+>>[![](https://visitcount.itsvg.in/api?id=Ali82APS&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
