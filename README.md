@@ -1,11 +1,9 @@
  <h1 align="center">  Hi, I’m <b>AliAmirpoorsaeed</b> </h1>
 
  ![fun](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
- > I'm `Web Developer🧑🏻‍💻`
->> currently `Front-End` `Junior Developer`
-
-<br>
-
+> I'm `Web Developer 🧑🏻‍💻`
+ >> currently `Front-End` `Junior Developer`<br>
+>
 >✉️
 > `a.82aps@gmail.com`
 ___
